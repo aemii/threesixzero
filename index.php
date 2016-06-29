@@ -33,7 +33,10 @@
 
 $result = '';
 
-include('includes/config.php');
+$servername = "https://threesixzero-spasaloon.rhcloud.com/phpmyadmin/";
+$username = "adminsCZL1Nq";
+$password = "kqQyuytgeVGZ";
+$dbname = "threesixzero";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
