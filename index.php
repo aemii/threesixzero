@@ -33,7 +33,7 @@
 
 $result = '';
 
-$servername = "127.2.149.130";
+$servername = "127.2.149.130:3306";
 $username = "adminsCZL1Nq";
 $password = "kqQyuytgeVGZ";
 $dbname = "threesixzero";
