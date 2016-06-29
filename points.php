@@ -33,10 +33,7 @@
 
 $qresult = '';
 
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "spa";
+include('includes/config.php');
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
