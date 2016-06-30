@@ -33,7 +33,7 @@
 
 $result = '';
 
-$servername = "https://threesixzero-spasaloon.rhcloud.com/phpmyadmin";
+$servername = "localhost";
 $username = "adminsCZL1Nq";
 $password = "kqQyuytgeVGZ";
 $dbname = "threesixzero";
