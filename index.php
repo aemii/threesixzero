@@ -33,8 +33,8 @@
 
 $result = '';
 
-$servername = "localhost";
-$username = "adminsCZL1Nq";
+$servername = "127.2.149.130";
+$username = "adminsCZL1Nq@127.2.149.130";
 $password = "kqQyuytgeVGZ";
 $dbname = "threesixzero";
 
