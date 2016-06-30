@@ -33,12 +33,14 @@
 
 $result = '';
 
-$servername = "127.2.149.130";
-$username = "adminsCZL1Nq@127.2.149.130";
+/*$servername = "127.2.149.130";
+$username = "adminsCZL1Nq";
 $password = "kqQyuytgeVGZ";
-$dbname = "threesixzero";
+$dbname = "threesixzero"; */
 
-$conn = new mysqli($servername, $username, $password, $dbname);
+$conn = mysqli_connect("127.2.149.130","adminsCZL1Nq","kqQyuytgeVGZ","threesixzero");
+
+//new mysqli($servername, $username, $password, $dbname);
 
 
 if($_SERVER["REQUEST_METHOD"] == "POST") {
