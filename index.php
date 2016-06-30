@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="">
 
-    <title>Spa & Saloon</title>
+    <title>Spa & Saloon - 360</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +38,7 @@ $username = "adminsCZL1Nq";
 $password = "kqQyuytgeVGZ";
 $dbname = "threesixzero"; */
 
-$conn = mysqli_connect("127.2.149.130","adminsCZL1Nq","kqQyuytgeVGZ","threesixzero");
+$conn = mysqli_connect("127.9.162.130","adminyV5f42Z","mM_tuHX2_8f2","360");
 
 //new mysqli($servername, $username, $password, $dbname);
 

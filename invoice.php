@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="">
 
-    <title>Customer Invoice</title>
+    <title>Get Customer Invoice</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -48,7 +48,7 @@
 
     //include('includes/config.php');
 
-    $conn = mysqli_connect("127.2.149.130","adminsCZL1Nq","kqQyuytgeVGZ","threesixzero");
+    $conn = mysqli_connect("127.9.162.130","adminyV5f42Z","mM_tuHX2_8f2","360");
     
     //new mysqli($servername, $username, $password, $dbname);
 

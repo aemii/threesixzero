@@ -35,7 +35,7 @@ $qresult = '';
 
 //include('includes/config.php');
 
-$conn = mysqli_connect("127.2.149.130","adminsCZL1Nq","kqQyuytgeVGZ","threesixzero");
+$conn = mysqli_connect("127.9.162.130","adminyV5f42Z","mM_tuHX2_8f2","360");
 
 //new mysqli($servername, $username, $password, $dbname);
 
