@@ -32,7 +32,7 @@
 
 
 
-    <h2 class="form-signin-heading">CUSTOMER INVOICE</h2>
+    <h2 class="form-signin-heading">CHECK CUSTOMER INVOICE</h2>
 
   <form class="form-signin" method="post" autocomplete="on">
 
