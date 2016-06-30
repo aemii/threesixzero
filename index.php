@@ -33,7 +33,7 @@
 
 $result = '';
 
-$servername = $OPENSHIFT_MYSQL_DB_HOST;
+$servername = "127.2.149.130";
 $username = "adminsCZL1Nq";
 $password = "kqQyuytgeVGZ";
 $dbname = "threesixzero";
