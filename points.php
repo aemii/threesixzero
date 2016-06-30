@@ -33,9 +33,11 @@
 
 $qresult = '';
 
-include('includes/config.php');
+//include('includes/config.php');
 
-$conn = new mysqli($servername, $username, $password, $dbname);
+$conn = mysqli_connect("127.2.149.130","adminsCZL1Nq","kqQyuytgeVGZ","threesixzero");
+
+//new mysqli($servername, $username, $password, $dbname);
 
 
 if($_SERVER["REQUEST_METHOD"] == "POST") {
